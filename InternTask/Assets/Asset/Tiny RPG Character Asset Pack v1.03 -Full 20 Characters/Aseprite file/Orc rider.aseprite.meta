@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 88b97c1428df1ad4ab5281db5d39039d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Orc rider_Frame_0
+    originalName: 
+    pivot: {x: 0.40625, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 453
+      y: 93
+      width: 32
+      height: 31
+    spriteID: 339e726fb51f1c94eb8420a773c780ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 453, y: 93}
+  - name: Orc rider_Frame_1
+    originalName: 
+    pivot: {x: 0.40625, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 151
+      width: 32
+      height: 31
+    spriteID: fcb4888d794ae064eb78c2bd395226b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 151}
+  - name: Orc rider_Frame_2
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 190
+      width: 31
+      height: 32
+    spriteID: 202439f27d14c4f4fb62b7f64550a2a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 190}
+  - name: Orc rider_Frame_3
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 190
+      width: 31
+      height: 32
+    spriteID: 1c72b919b2574154ca667b1cb598d46b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 190}
+  - name: Orc rider_Frame_4
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 151
+      width: 31
+      height: 31
+    spriteID: 81d6484d4da34174685bbb1f911119af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 151}
+  - name: Orc rider_Frame_5
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 151
+      width: 31
+      height: 31
+    spriteID: 502469e135243de41bdfcbdf99125ffe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 151}
+  - name: Orc rider_Frame_14
+    originalName: 
+    pivot: {x: 0.40625, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 190
+      width: 32
+      height: 31
+    spriteID: 4530d55a5b9bec8499375495c109d268
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 190}
+  - name: Orc rider_Frame_16
+    originalName: 
+    pivot: {x: 0.4333333, y: -1.3793104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 331
+      y: 4
+      width: 30
+      height: 29
+    spriteID: e0e45b913adf94a4490943871049cac8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 4}
+  - name: Orc rider_Frame_17
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 151
+      width: 31
+      height: 31
+    spriteID: 73e728eae82818d489dfdfb9ca99d21a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 151}
+  - name: Orc rider_Frame_18
+    originalName: 
+    pivot: {x: 0.30232555, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 141
+      y: 93
+      width: 43
+      height: 31
+    spriteID: 5ce4dd82e41d1bc45a50131bb798e674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 141, y: 93}
+  - name: Orc rider_Frame_19
+    originalName: 
+    pivot: {x: 0.30232555, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 93
+      width: 43
+      height: 31
+    spriteID: aca88bbb4aba6364cad48aaab0504836
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 93}
+  - name: Orc rider_Frame_20
+    originalName: 
+    pivot: {x: 0.3095238, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 93
+      width: 42
+      height: 31
+    spriteID: 43b46f55c005f634f926f3bdd3a6e3b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 93}
+  - name: Orc rider_Frame_21
+    originalName: 
+    pivot: {x: 0.39393938, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 371
+      y: 93
+      width: 33
+      height: 31
+    spriteID: ef64fe424dde3d24ebf7039e31122c80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 371, y: 93}
+  - name: Orc rider_Frame_23
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 190
+      width: 31
+      height: 32
+    spriteID: bb2c9fcd0bce9664f88102f29d35fea9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 190}
+  - name: Orc rider_Frame_24
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 93
+      width: 31
+      height: 36
+    spriteID: a5c33e0284daf2f449fa6eb5e5227fe1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 293, y: 93}
+  - name: Orc rider_Frame_25
+    originalName: 
+    pivot: {x: 0.40625, y: -0.9302325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 61
+      y: 93
+      width: 32
+      height: 43
+    spriteID: ac8d73497b958364cb0ca8c4553c7864
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 61, y: 93}
+  - name: Orc rider_Frame_26
+    originalName: 
+    pivot: {x: 0.26530612, y: -0.8}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 93
+      width: 49
+      height: 50
+    spriteID: a4eee0d5aaca82f418623aa4523115f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 93}
+  - name: Orc rider_Frame_27
+    originalName: 
+    pivot: {x: 0.22033899, y: -0.627907}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 59
+      height: 43
+    spriteID: 24787cf0da69ab84db7ca1b170f67d77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 42}
+  - name: Orc rider_Frame_28
+    originalName: 
+    pivot: {x: 0.23636363, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 42
+      width: 55
+      height: 40
+    spriteID: 70e085c41f14c0f409f50de826b86eeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 42}
+  - name: Orc rider_Frame_29
+    originalName: 
+    pivot: {x: 0.26530612, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 443
+      y: 42
+      width: 49
+      height: 30
+    spriteID: 850506b4659a0374eb38d24ccd569cea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 443, y: 42}
+  - name: Orc rider_Frame_30
+    originalName: 
+    pivot: {x: 0.39393938, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 93
+      width: 33
+      height: 31
+    spriteID: 3d12b671408380140bec7e41b38d165b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 93}
+  - name: Orc rider_Frame_31
+    originalName: 
+    pivot: {x: 0.40625, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 161
+      y: 190
+      width: 32
+      height: 31
+    spriteID: ca31cb3b29a671b409bedcc82fef3da3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 190}
+  - name: Orc rider_Frame_32
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 190
+      width: 31
+      height: 32
+    spriteID: 9323d61f135a64c4e80951226e86c396
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 190}
+  - name: Orc rider_Frame_33
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 93
+      width: 31
+      height: 36
+    spriteID: 5422834acba45214eb962f63b7bd5deb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 93}
+  - name: Orc rider_Frame_34
+    originalName: 
+    pivot: {x: 0.40625, y: -0.9302325}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 93
+      width: 32
+      height: 43
+    spriteID: b5df3990e317289458df5cc5e71de549
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 93}
+  - name: Orc rider_Frame_35
+    originalName: 
+    pivot: {x: 0.34210524, y: -0.9756098}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 42
+      width: 38
+      height: 41
+    spriteID: a7c284630ba6c45499bd1a68d2323fea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 397, y: 42}
+  - name: Orc rider_Frame_36
+    originalName: 
+    pivot: {x: 0.22807017, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 267
+      y: 42
+      width: 57
+      height: 30
+    spriteID: 692cc9146f32f7a428e44161b1055802
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 267, y: 42}
+  - name: Orc rider_Frame_37
+    originalName: 
+    pivot: {x: 0.48235294, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 85
+      height: 30
+    spriteID: cdd17b26fe96bd244a9c79b304497b4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Orc rider_Frame_38
+    originalName: 
+    pivot: {x: 0.69491524, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 42
+      width: 59
+      height: 30
+    spriteID: 970ed76604d2eba458be2fcc9dd2334c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 42}
+  - name: Orc rider_Frame_39
+    originalName: 
+    pivot: {x: 0.6551724, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 42
+      width: 58
+      height: 30
+    spriteID: aebc9706f0061d44abbd07365f949f1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 42}
+  - name: Orc rider_Frame_40
+    originalName: 
+    pivot: {x: 0.22807017, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 332
+      y: 42
+      width: 57
+      height: 30
+    spriteID: d0509a2d721e88d43ba96c3649397552
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 332, y: 42}
+  - name: Orc rider_Frame_41
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 151
+      width: 31
+      height: 30
+    spriteID: 07a40acd5b3319142b8d6b6e1f75e4e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 151}
+  - name: Orc rider_Frame_42
+    originalName: 
+    pivot: {x: 0.40625, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 190
+      width: 32
+      height: 31
+    spriteID: 87215a0bd1a268943985ed5cc7c29d8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 190}
+  - name: Orc rider_Frame_43
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 477
+      y: 151
+      width: 31
+      height: 30
+    spriteID: 9cf88ce2fd0bf304cb30f820615792a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 477, y: 151}
+  - name: Orc rider_Frame_44
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 4
+      width: 31
+      height: 30
+    spriteID: 2cf0b30d2441b8a4da6274ed8f2afb22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 4}
+  - name: Orc rider_Frame_45
+    originalName: 
+    pivot: {x: 0.40625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 151
+      width: 32
+      height: 30
+    spriteID: b947310b89c8f184b8678de035cb1309
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 278, y: 151}
+  - name: Orc rider_Frame_46
+    originalName: 
+    pivot: {x: 0.40625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 318
+      y: 151
+      width: 32
+      height: 30
+    spriteID: 7f0cb6a53e280d641857594812462227
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 151}
+  - name: Orc rider_Frame_47
+    originalName: 
+    pivot: {x: 0.40625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 151
+      width: 32
+      height: 30
+    spriteID: 62e1490580785764d8c7919e0683b5e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 358, y: 151}
+  - name: Orc rider_Frame_48
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 136
+      y: 4
+      width: 31
+      height: 30
+    spriteID: abe931415a866d946a26641d84720716
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 136, y: 4}
+  - name: Orc rider_Frame_49
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 4
+      width: 31
+      height: 30
+    spriteID: 094e5be49c54597428a3beb0c78fa17f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 175, y: 4}
+  - name: Orc rider_Frame_50
+    originalName: 
+    pivot: {x: 0.40625, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 280
+      y: 190
+      width: 32
+      height: 31
+    spriteID: 2faf685f92992a24fa0973d3f4876be4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 280, y: 190}
+  - name: Orc rider_Frame_51
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 4
+      width: 31
+      height: 30
+    spriteID: 92532abb644f82f489bef506844004b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 4}
+  - name: Orc rider_Frame_52
+    originalName: 
+    pivot: {x: 0.3953488, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 228
+      width: 43
+      height: 20
+    spriteID: d5482886d2a3f7f40bbf7933375ec7d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 439, y: 228}
+  - name: Orc rider_Frame_53
+    originalName: 
+    pivot: {x: 0.4230769, y: -2.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 369
+      y: 4
+      width: 52
+      height: 15
+    spriteID: acde943120254b74b8fa2de237e65dbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 369, y: 4}
+  - name: Orc rider_Frame_6
+    originalName: 
+    pivot: {x: 0.40625, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 190
+      width: 32
+      height: 31
+    spriteID: ef22fc966d925d8489638113c9e2ccdb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 320, y: 190}
+  - name: Orc rider_Frame_7
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 360
+      y: 190
+      width: 31
+      height: 32
+    spriteID: a4eead63b57e8f24bb055a318e7582c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 360, y: 190}
+  - name: Orc rider_Frame_8
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 161
+      y: 151
+      width: 31
+      height: 31
+    spriteID: 9adab00cf7d626a4dab136b6e9f240e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 151}
+  - name: Orc rider_Frame_9
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 4
+      width: 31
+      height: 30
+    spriteID: fede2b607da14b844a594ddcf5edba12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 4}
+  - name: Orc rider_Frame_10
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 151
+      width: 31
+      height: 31
+    spriteID: 4fe5ad20d555ccd40a9721d1ca2a729e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 151}
+  - name: Orc rider_Frame_11
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 151
+      width: 31
+      height: 31
+    spriteID: 77089fbe7b12f4a4a93b888588d2bb62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 151}
+  - name: Orc rider_Frame_12
+    originalName: 
+    pivot: {x: 0.40625, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 398
+      y: 151
+      width: 32
+      height: 30
+    spriteID: 3b2a795931c96484c8458b3b728917ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 398, y: 151}
+  - name: Orc rider_Frame_13
+    originalName: 
+    pivot: {x: 0.39393938, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 190
+      width: 33
+      height: 30
+    spriteID: 7c8de72aa9fcf5549aaf60987c2ba327
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 439, y: 190}
+  - name: Orc rider_Frame_15
+    originalName: 
+    pivot: {x: 0.41935483, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 4
+      width: 31
+      height: 30
+    spriteID: 38cbdc99d7266784dbd98f40ee1fb008
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 4}
+  - name: Orc rider_Frame_22
+    originalName: 
+    pivot: {x: 0.40625, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 399
+      y: 190
+      width: 32
+      height: 31
+    spriteID: f19cf35cba1f57d45b0bcdf413f70fc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 399, y: 190}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1252243780
+    name: Orc rider
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Orc rider_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 31
+      spriteId: 339e726fb51f1c94eb8420a773c780ac
+    - name: Orc rider_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 31
+      spriteId: fcb4888d794ae064eb78c2bd395226b2
+    - name: Orc rider_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 32
+      spriteId: 202439f27d14c4f4fb62b7f64550a2a7
+    - name: Orc rider_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 32
+      spriteId: 1c72b919b2574154ca667b1cb598d46b
+    - name: Orc rider_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 31
+      spriteId: 81d6484d4da34174685bbb1f911119af
+    - name: Orc rider_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 31
+      spriteId: 502469e135243de41bdfcbdf99125ffe
+    - name: Orc rider_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 31
+      spriteId: 4530d55a5b9bec8499375495c109d268
+    - name: Orc rider_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 37
+        y: 40
+        width: 30
+        height: 29
+      spriteId: e0e45b913adf94a4490943871049cac8
+    - name: Orc rider_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 31
+      spriteId: 73e728eae82818d489dfdfb9ca99d21a
+    - name: Orc rider_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 37
+        y: 40
+        width: 43
+        height: 31
+      spriteId: 5ce4dd82e41d1bc45a50131bb798e674
+    - name: Orc rider_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 37
+        y: 40
+        width: 43
+        height: 31
+      spriteId: aca88bbb4aba6364cad48aaab0504836
+    - name: Orc rider_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 37
+        y: 40
+        width: 42
+        height: 31
+      spriteId: 43b46f55c005f634f926f3bdd3a6e3b2
+    - name: Orc rider_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 37
+        y: 40
+        width: 33
+        height: 31
+      spriteId: ef64fe424dde3d24ebf7039e31122c80
+    - name: Orc rider_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 32
+      spriteId: bb2c9fcd0bce9664f88102f29d35fea9
+    - name: Orc rider_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 36
+      spriteId: a5c33e0284daf2f449fa6eb5e5227fe1
+    - name: Orc rider_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 43
+      spriteId: ac8d73497b958364cb0ca8c4553c7864
+    - name: Orc rider_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 37
+        y: 40
+        width: 49
+        height: 50
+      spriteId: a4eee0d5aaca82f418623aa4523115f9
+    - name: Orc rider_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 37
+        y: 27
+        width: 59
+        height: 43
+      spriteId: 24787cf0da69ab84db7ca1b170f67d77
+    - name: Orc rider_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 37
+        y: 30
+        width: 55
+        height: 40
+      spriteId: 70e085c41f14c0f409f50de826b86eeb
+    - name: Orc rider_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 37
+        y: 40
+        width: 49
+        height: 30
+      spriteId: 850506b4659a0374eb38d24ccd569cea
+    - name: Orc rider_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 37
+        y: 40
+        width: 33
+        height: 31
+      spriteId: 3d12b671408380140bec7e41b38d165b
+    - name: Orc rider_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 31
+      spriteId: ca31cb3b29a671b409bedcc82fef3da3
+    - name: Orc rider_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 32
+      spriteId: 9323d61f135a64c4e80951226e86c396
+    - name: Orc rider_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 36
+      spriteId: 5422834acba45214eb962f63b7bd5deb
+    - name: Orc rider_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 43
+      spriteId: b5df3990e317289458df5cc5e71de549
+    - name: Orc rider_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 37
+        y: 40
+        width: 38
+        height: 41
+      spriteId: a7c284630ba6c45499bd1a68d2323fea
+    - name: Orc rider_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 37
+        y: 40
+        width: 57
+        height: 30
+      spriteId: 692cc9146f32f7a428e44161b1055802
+    - name: Orc rider_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 9
+        y: 40
+        width: 85
+        height: 30
+      spriteId: cdd17b26fe96bd244a9c79b304497b4a
+    - name: Orc rider_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 9
+        y: 40
+        width: 59
+        height: 30
+      spriteId: 970ed76604d2eba458be2fcc9dd2334c
+    - name: Orc rider_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 12
+        y: 40
+        width: 58
+        height: 30
+      spriteId: aebc9706f0061d44abbd07365f949f1f
+    - name: Orc rider_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 37
+        y: 40
+        width: 57
+        height: 30
+      spriteId: d0509a2d721e88d43ba96c3649397552
+    - name: Orc rider_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 30
+      spriteId: 07a40acd5b3319142b8d6b6e1f75e4e2
+    - name: Orc rider_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 31
+      spriteId: 87215a0bd1a268943985ed5cc7c29d8c
+    - name: Orc rider_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 30
+      spriteId: 9cf88ce2fd0bf304cb30f820615792a1
+    - name: Orc rider_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 30
+      spriteId: 2cf0b30d2441b8a4da6274ed8f2afb22
+    - name: Orc rider_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 30
+      spriteId: b947310b89c8f184b8678de035cb1309
+    - name: Orc rider_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 30
+      spriteId: 7f0cb6a53e280d641857594812462227
+    - name: Orc rider_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 30
+      spriteId: 62e1490580785764d8c7919e0683b5e7
+    - name: Orc rider_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 30
+      spriteId: abe931415a866d946a26641d84720716
+    - name: Orc rider_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 30
+      spriteId: 094e5be49c54597428a3beb0c78fa17f
+    - name: Orc rider_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 31
+      spriteId: 2faf685f92992a24fa0973d3f4876be4
+    - name: Orc rider_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 30
+      spriteId: 92532abb644f82f489bef506844004b9
+    - name: Orc rider_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 33
+        y: 40
+        width: 43
+        height: 20
+      spriteId: d5482886d2a3f7f40bbf7933375ec7d1
+    - name: Orc rider_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 28
+        y: 40
+        width: 52
+        height: 15
+      spriteId: acde943120254b74b8fa2de237e65dbc
+    - name: Orc rider_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 31
+      spriteId: ef22fc966d925d8489638113c9e2ccdb
+    - name: Orc rider_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 32
+      spriteId: a4eead63b57e8f24bb055a318e7582c7
+    - name: Orc rider_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 31
+      spriteId: 9adab00cf7d626a4dab136b6e9f240e5
+    - name: Orc rider_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 30
+      spriteId: fede2b607da14b844a594ddcf5edba12
+    - name: Orc rider_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 31
+      spriteId: 4fe5ad20d555ccd40a9721d1ca2a729e
+    - name: Orc rider_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 31
+      spriteId: 77089fbe7b12f4a4a93b888588d2bb62
+    - name: Orc rider_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 30
+      spriteId: 3b2a795931c96484c8458b3b728917ea
+    - name: Orc rider_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 37
+        y: 40
+        width: 33
+        height: 30
+      spriteId: 7c8de72aa9fcf5549aaf60987c2ba327
+    - name: Orc rider_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 37
+        y: 40
+        width: 31
+        height: 30
+      spriteId: 38cbdc99d7266784dbd98f40ee1fb008
+    - name: Orc rider_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 37
+        y: 40
+        width: 32
+        height: 31
+      spriteId: f19cf35cba1f57d45b0bcdf413f70fc3
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

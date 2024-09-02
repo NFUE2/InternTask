@@ -1,0 +1,1819 @@
+fileFormatVersion: 2
+guid: 96dd08d616c835d499cd53b689a95991
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Knight Templar_Frame_0
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 116
+      width: 27
+      height: 20
+    spriteID: 420764efd1e8572409851af21d58efd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 116}
+  - name: Knight Templar_Frame_48
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 144
+      width: 27
+      height: 20
+    spriteID: 5b42e2864dfcb1348810803bf52bff15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 144}
+  - name: Knight Templar_Frame_52
+    originalName: 
+    pivot: {x: 0.35714284, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 4
+      width: 28
+      height: 20
+    spriteID: 98d1046d499237445867d61d387dea28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 4}
+  - name: Knight Templar_Frame_56
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 172
+      width: 27
+      height: 20
+    spriteID: 029bb7b7101edc948b10961741f1ff6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 172}
+  - name: Knight Templar_Frame_1
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 200
+      width: 27
+      height: 20
+    spriteID: b20023510c0b98740a91d42c63c7e86b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 200}
+  - name: Knight Templar_Frame_2
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 406
+      width: 27
+      height: 21
+    spriteID: 5514ec628283198438e0d80dd567ba55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 406}
+  - name: Knight Templar_Frame_3
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 435
+      width: 27
+      height: 21
+    spriteID: 15089ad72dbdad1489373e66733ae015
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 435}
+  - name: Knight Templar_Frame_4
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 228
+      width: 27
+      height: 20
+    spriteID: 2440cd866fbe29e438e0f3a2cc4458b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 228}
+  - name: Knight Templar_Frame_5
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 256
+      width: 27
+      height: 20
+    spriteID: ccc5a308b5ad32d4587c19afdac53953
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 256}
+  - name: Knight Templar_Frame_6
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 284
+      width: 27
+      height: 20
+    spriteID: f75c91c5a218a374295f32bb0b6115c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 284}
+  - name: Knight Templar_Frame_7
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 464
+      width: 27
+      height: 21
+    spriteID: f931239fb4e7f8541bfe12a66febe008
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 464}
+  - name: Knight Templar_Frame_8
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 312
+      width: 27
+      height: 20
+    spriteID: 2a53df57d6d30a3469f4cdd55687dc35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 312}
+  - name: Knight Templar_Frame_9
+    originalName: 
+    pivot: {x: 0.25925922, y: -2.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 203
+      width: 27
+      height: 19
+    spriteID: ba09baae846e12c468fd6d7f006f5b79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 203}
+  - name: Knight Templar_Frame_10
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 340
+      width: 27
+      height: 20
+    spriteID: 488f09e8facd36b4b87fd72ea3d7a61e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 340}
+  - name: Knight Templar_Frame_11
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 4
+      width: 27
+      height: 21
+    spriteID: 4016e0434366a22478dbb8fa16ed7cd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 4}
+  - name: Knight Templar_Frame_12
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 368
+      width: 27
+      height: 20
+    spriteID: 11bd368223f5dd94f9415748ed7f9f6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 368}
+  - name: Knight Templar_Frame_13
+    originalName: 
+    pivot: {x: 0.25925922, y: -2.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 230
+      width: 27
+      height: 19
+    spriteID: 77cce9c60a2c8314d84d27b11a13d660
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 230}
+  - name: Knight Templar_Frame_14
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 396
+      width: 27
+      height: 20
+    spriteID: 431f10b9a41053943ad54e152ea8a211
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 396}
+  - name: Knight Templar_Frame_15
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 33
+      width: 27
+      height: 21
+    spriteID: e5ad76d2fbbef0b47a2293ecce272775
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 33}
+  - name: Knight Templar_Frame_16
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 424
+      width: 27
+      height: 20
+    spriteID: c4d712d911ef4184ba3d24ccddd457e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 424}
+  - name: Knight Templar_Frame_17
+    originalName: 
+    pivot: {x: 0.25925922, y: -2.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 257
+      width: 27
+      height: 19
+    spriteID: 05913cd237de56b49ba4a6e0b0cd7ec4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 257}
+  - name: Knight Templar_Frame_18
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 452
+      width: 27
+      height: 20
+    spriteID: c9a81a7ec2e028a46badf064aa71f091
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 452}
+  - name: Knight Templar_Frame_19
+    originalName: 
+    pivot: {x: 0.28571433, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 377
+      width: 28
+      height: 21
+    spriteID: bf9a1f3d7476e5d46a6d7245a874ef09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 377}
+  - name: Knight Templar_Frame_20
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 480
+      width: 27
+      height: 20
+    spriteID: 049f11e52ee6e8441a2bc491d56f8f02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 480}
+  - name: Knight Templar_Frame_21
+    originalName: 
+    pivot: {x: 0.25925922, y: -2.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 284
+      width: 27
+      height: 19
+    spriteID: 8582d44b981a45b4cb9ebf48b5588695
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 284}
+  - name: Knight Templar_Frame_22
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 91
+      width: 27
+      height: 20
+    spriteID: e109e71150c0da6419c2bf830d6b61f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 91}
+  - name: Knight Templar_Frame_23
+    originalName: 
+    pivot: {x: 0.26923072, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 175
+      width: 26
+      height: 20
+    spriteID: 0ef322789ccab98499eec343597e566e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 175}
+  - name: Knight Templar_Frame_24
+    originalName: 
+    pivot: {x: 0.30434778, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 68
+      width: 23
+      height: 20
+    spriteID: 63d86feedd381e54ca6a9e8918decb42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 68}
+  - name: Knight Templar_Frame_25
+    originalName: 
+    pivot: {x: 0.30434778, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 96
+      width: 23
+      height: 20
+    spriteID: cd1bc870a95a38b41a60c42b4824cb5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 96}
+  - name: Knight Templar_Frame_26
+    originalName: 
+    pivot: {x: 0.20588233, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 230
+      width: 34
+      height: 20
+    spriteID: 289110c412c1fd34e9a61964775e6624
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 230}
+  - name: Knight Templar_Frame_27
+    originalName: 
+    pivot: {x: 0.19444442, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 174
+      width: 36
+      height: 20
+    spriteID: c5ced61a9d873324bb740d3b18e29a2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 174}
+  - name: Knight Templar_Frame_28
+    originalName: 
+    pivot: {x: 0.19444442, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 202
+      width: 36
+      height: 20
+    spriteID: 461abfe0d5c76784bb1986c9497f83d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 202}
+  - name: Knight Templar_Frame_29
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 119
+      width: 27
+      height: 20
+    spriteID: cd2adf91655d0a347be266ee9b114f0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 119}
+  - name: Knight Templar_Frame_30
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 62
+      width: 27
+      height: 21
+    spriteID: 79c0b75273eef4a4db5e9335de22a1de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 62}
+  - name: Knight Templar_Frame_31
+    originalName: 
+    pivot: {x: 0.30434778, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 311
+      width: 23
+      height: 22
+    spriteID: f2e668b30bdc1d44cbb94ce85e739b84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 311}
+  - name: Knight Templar_Frame_32
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.4285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 32
+      width: 17
+      height: 28
+    spriteID: 601344a4c613d474d82ddc700e0a7c08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 32}
+  - name: Knight Templar_Frame_33
+    originalName: 
+    pivot: {x: 0.38888884, y: -1.4814814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 341
+      width: 18
+      height: 27
+    spriteID: c6c0c124893fd00439c4b4027e9360fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 341}
+  - name: Knight Templar_Frame_34
+    originalName: 
+    pivot: {x: 0.30555558, y: -1.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 39
+      width: 36
+      height: 27
+    spriteID: 06bac4c1ec821be4d9931d9ca734def5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 39}
+  - name: Knight Templar_Frame_35
+    originalName: 
+    pivot: {x: 0.28571427, y: -1.5416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 35
+      height: 24
+    spriteID: 59738e5fbbda3b44daca9986828fb250
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 74}
+  - name: Knight Templar_Frame_36
+    originalName: 
+    pivot: {x: 0.33333334, y: -1.6818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 287
+      width: 27
+      height: 22
+    spriteID: 142567a6bf64e1c4ba8cb12677d13819
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 287}
+  - name: Knight Templar_Frame_37
+    originalName: 
+    pivot: {x: 0.25925922, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 147
+      width: 27
+      height: 20
+    spriteID: 375a97adeefe7ef488b010eaee31ec17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 147}
+  - name: Knight Templar_Frame_38
+    originalName: 
+    pivot: {x: 0.6, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 157
+      width: 20
+      height: 20
+    spriteID: 61c23f049e24fdb48964febd8f2be56e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 157}
+  - name: Knight Templar_Frame_39
+    originalName: 
+    pivot: {x: 0.5555555, y: -1.6818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 185
+      width: 18
+      height: 22
+    spriteID: e7b96d3a582680d449c9d394595ff873
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 185}
+  - name: Knight Templar_Frame_40
+    originalName: 
+    pivot: {x: 0.2333333, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 258
+      width: 30
+      height: 21
+    spriteID: a5ca18eef236e0a4c8df46a58a026c38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 258}
+  - name: Knight Templar_Frame_41
+    originalName: 
+    pivot: {x: 0.24137928, y: -1.4285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 138
+      width: 29
+      height: 28
+    spriteID: 367a59fe70739ea4192fd11ee2980805
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 138}
+  - name: Knight Templar_Frame_42
+    originalName: 
+    pivot: {x: 0.38888884, y: -1.4814814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 376
+      width: 18
+      height: 27
+    spriteID: d4c0661ee23843548a75fd2d7be4f209
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 376}
+  - name: Knight Templar_Frame_43
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 124
+      width: 17
+      height: 25
+    spriteID: 44bce1ac56e51494890ee2282c8a7883
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 124}
+  - name: Knight Templar_Frame_44
+    originalName: 
+    pivot: {x: 0.2894737, y: -1.3703704}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 38
+      height: 27
+    spriteID: 2875b856d09da1c4fbd41f2446f56b10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Knight Templar_Frame_45
+    originalName: 
+    pivot: {x: 0.28571427, y: -1.5416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 106
+      width: 35
+      height: 24
+    spriteID: 41f8f75a7d18e7e49a3a433a40b6f930
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 106}
+  - name: Knight Templar_Frame_46
+    originalName: 
+    pivot: {x: 0.33333334, y: -1.6818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 317
+      width: 27
+      height: 22
+    spriteID: 96be248be22239e40a5b744c704dfa66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 317}
+  - name: Knight Templar_Frame_47
+    originalName: 
+    pivot: {x: 0.33333334, y: -1.6818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 347
+      width: 27
+      height: 22
+    spriteID: 609dd5969e0a3c849bf7a395bfb07af5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 347}
+  - name: Knight Templar_Frame_49
+    originalName: 
+    pivot: {x: 0.29166663, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 440
+      width: 24
+      height: 20
+    spriteID: 7f6ee28463878234bb4c5d621f3d6d52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 440}
+  - name: Knight Templar_Frame_50
+    originalName: 
+    pivot: {x: 0.29166663, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 468
+      width: 24
+      height: 20
+    spriteID: a4eb66354eb487c4ea955838862e4217
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 468}
+  - name: Knight Templar_Frame_51
+    originalName: 
+    pivot: {x: 0.29166663, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 4
+      width: 24
+      height: 20
+    spriteID: ffb1b35bb91544d4184e9b8fc65fd8be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 4}
+  - name: Knight Templar_Frame_53
+    originalName: 
+    pivot: {x: 0.35714284, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 32
+      width: 28
+      height: 20
+    spriteID: 3bbf04ffdf9089943adfdf37d089581e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 32}
+  - name: Knight Templar_Frame_54
+    originalName: 
+    pivot: {x: 0.35714284, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 60
+      width: 28
+      height: 20
+    spriteID: f5c01f8e26f679944bb6e596c4f2509d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 60}
+  - name: Knight Templar_Frame_55
+    originalName: 
+    pivot: {x: 0.35714284, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 88
+      width: 28
+      height: 20
+    spriteID: 3bac88f28948e0e4c8d8f80bf0832e03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 88}
+  - name: Knight Templar_Frame_57
+    originalName: 
+    pivot: {x: 0.34782612, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 411
+      width: 23
+      height: 21
+    spriteID: 90e0ad0afaa16ae408a2d40282237a53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 411}
+  - name: Knight Templar_Frame_58
+    originalName: 
+    pivot: {x: 0.40000007, y: -2.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 215
+      width: 20
+      height: 18
+    spriteID: da139772021cc754f94f18987b74cf92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 215}
+  - name: Knight Templar_Frame_59
+    originalName: 
+    pivot: {x: 0.4210527, y: -2.3529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 241
+      width: 19
+      height: 17
+    spriteID: 0da716716bf402747924bd6a8fcdd048
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 241}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 851523806
+    name: Knight Templar
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Knight Templar_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 420764efd1e8572409851af21d58efd5
+    - name: Knight Templar_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 5b42e2864dfcb1348810803bf52bff15
+    - name: Knight Templar_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 40
+        y: 40
+        width: 28
+        height: 20
+      spriteId: 98d1046d499237445867d61d387dea28
+    - name: Knight Templar_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 029bb7b7101edc948b10961741f1ff6a
+    - name: Knight Templar_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: b20023510c0b98740a91d42c63c7e86b
+    - name: Knight Templar_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 21
+      spriteId: 5514ec628283198438e0d80dd567ba55
+    - name: Knight Templar_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 21
+      spriteId: 15089ad72dbdad1489373e66733ae015
+    - name: Knight Templar_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 2440cd866fbe29e438e0f3a2cc4458b1
+    - name: Knight Templar_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: ccc5a308b5ad32d4587c19afdac53953
+    - name: Knight Templar_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: f75c91c5a218a374295f32bb0b6115c1
+    - name: Knight Templar_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 21
+      spriteId: f931239fb4e7f8541bfe12a66febe008
+    - name: Knight Templar_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 2a53df57d6d30a3469f4cdd55687dc35
+    - name: Knight Templar_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 19
+      spriteId: ba09baae846e12c468fd6d7f006f5b79
+    - name: Knight Templar_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 488f09e8facd36b4b87fd72ea3d7a61e
+    - name: Knight Templar_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 21
+      spriteId: 4016e0434366a22478dbb8fa16ed7cd3
+    - name: Knight Templar_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 11bd368223f5dd94f9415748ed7f9f6d
+    - name: Knight Templar_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 19
+      spriteId: 77cce9c60a2c8314d84d27b11a13d660
+    - name: Knight Templar_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 431f10b9a41053943ad54e152ea8a211
+    - name: Knight Templar_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 21
+      spriteId: e5ad76d2fbbef0b47a2293ecce272775
+    - name: Knight Templar_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: c4d712d911ef4184ba3d24ccddd457e2
+    - name: Knight Templar_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 19
+      spriteId: 05913cd237de56b49ba4a6e0b0cd7ec4
+    - name: Knight Templar_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: c9a81a7ec2e028a46badf064aa71f091
+    - name: Knight Templar_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 42
+        y: 40
+        width: 28
+        height: 21
+      spriteId: bf9a1f3d7476e5d46a6d7245a874ef09
+    - name: Knight Templar_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 049f11e52ee6e8441a2bc491d56f8f02
+    - name: Knight Templar_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 19
+      spriteId: 8582d44b981a45b4cb9ebf48b5588695
+    - name: Knight Templar_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: e109e71150c0da6419c2bf830d6b61f4
+    - name: Knight Templar_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 43
+        y: 40
+        width: 26
+        height: 20
+      spriteId: 0ef322789ccab98499eec343597e566e
+    - name: Knight Templar_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 43
+        y: 40
+        width: 23
+        height: 20
+      spriteId: 63d86feedd381e54ca6a9e8918decb42
+    - name: Knight Templar_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 43
+        y: 40
+        width: 23
+        height: 20
+      spriteId: cd1bc870a95a38b41a60c42b4824cb5b
+    - name: Knight Templar_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 43
+        y: 40
+        width: 34
+        height: 20
+      spriteId: 289110c412c1fd34e9a61964775e6624
+    - name: Knight Templar_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 43
+        y: 40
+        width: 36
+        height: 20
+      spriteId: c5ced61a9d873324bb740d3b18e29a2b
+    - name: Knight Templar_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 43
+        y: 40
+        width: 36
+        height: 20
+      spriteId: 461abfe0d5c76784bb1986c9497f83d5
+    - name: Knight Templar_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: cd2adf91655d0a347be266ee9b114f0d
+    - name: Knight Templar_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 21
+      spriteId: 79c0b75273eef4a4db5e9335de22a1de
+    - name: Knight Templar_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 43
+        y: 40
+        width: 23
+        height: 22
+      spriteId: f2e668b30bdc1d44cbb94ce85e739b84
+    - name: Knight Templar_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 28
+      spriteId: 601344a4c613d474d82ddc700e0a7c08
+    - name: Knight Templar_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 43
+        y: 40
+        width: 18
+        height: 27
+      spriteId: c6c0c124893fd00439c4b4027e9360fd
+    - name: Knight Templar_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 39
+        y: 37
+        width: 36
+        height: 27
+      spriteId: 06bac4c1ec821be4d9931d9ca734def5
+    - name: Knight Templar_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 40
+        y: 37
+        width: 35
+        height: 24
+      spriteId: 59738e5fbbda3b44daca9986828fb250
+    - name: Knight Templar_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 41
+        y: 37
+        width: 27
+        height: 22
+      spriteId: 142567a6bf64e1c4ba8cb12677d13819
+    - name: Knight Templar_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 20
+      spriteId: 375a97adeefe7ef488b010eaee31ec17
+    - name: Knight Templar_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 38
+        y: 40
+        width: 20
+        height: 20
+      spriteId: 61c23f049e24fdb48964febd8f2be56e
+    - name: Knight Templar_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 40
+        y: 37
+        width: 18
+        height: 22
+      spriteId: e7b96d3a582680d449c9d394595ff873
+    - name: Knight Templar_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 43
+        y: 40
+        width: 30
+        height: 21
+      spriteId: a5ca18eef236e0a4c8df46a58a026c38
+    - name: Knight Templar_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 43
+        y: 40
+        width: 29
+        height: 28
+      spriteId: 367a59fe70739ea4192fd11ee2980805
+    - name: Knight Templar_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 43
+        y: 40
+        width: 18
+        height: 27
+      spriteId: d4c0661ee23843548a75fd2d7be4f209
+    - name: Knight Templar_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 25
+      spriteId: 44bce1ac56e51494890ee2282c8a7883
+    - name: Knight Templar_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 39
+        y: 37
+        width: 38
+        height: 27
+      spriteId: 2875b856d09da1c4fbd41f2446f56b10
+    - name: Knight Templar_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 40
+        y: 37
+        width: 35
+        height: 24
+      spriteId: 41f8f75a7d18e7e49a3a433a40b6f930
+    - name: Knight Templar_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 41
+        y: 37
+        width: 27
+        height: 22
+      spriteId: 96be248be22239e40a5b744c704dfa66
+    - name: Knight Templar_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 41
+        y: 37
+        width: 27
+        height: 22
+      spriteId: 609dd5969e0a3c849bf7a395bfb07af5
+    - name: Knight Templar_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 43
+        y: 40
+        width: 24
+        height: 20
+      spriteId: 7f6ee28463878234bb4c5d621f3d6d52
+    - name: Knight Templar_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 43
+        y: 40
+        width: 24
+        height: 20
+      spriteId: a4eb66354eb487c4ea955838862e4217
+    - name: Knight Templar_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 43
+        y: 40
+        width: 24
+        height: 20
+      spriteId: ffb1b35bb91544d4184e9b8fc65fd8be
+    - name: Knight Templar_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 40
+        y: 40
+        width: 28
+        height: 20
+      spriteId: 3bbf04ffdf9089943adfdf37d089581e
+    - name: Knight Templar_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 40
+        y: 40
+        width: 28
+        height: 20
+      spriteId: f5c01f8e26f679944bb6e596c4f2509d
+    - name: Knight Templar_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 40
+        y: 40
+        width: 28
+        height: 20
+      spriteId: 3bac88f28948e0e4c8d8f80bf0832e03
+    - name: Knight Templar_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 42
+        y: 40
+        width: 23
+        height: 21
+      spriteId: 90e0ad0afaa16ae408a2d40282237a53
+    - name: Knight Templar_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 42
+        y: 40
+        width: 20
+        height: 18
+      spriteId: da139772021cc754f94f18987b74cf92
+    - name: Knight Templar_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 42
+        y: 40
+        width: 19
+        height: 17
+      spriteId: 0da716716bf402747924bd6a8fcdd048
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}

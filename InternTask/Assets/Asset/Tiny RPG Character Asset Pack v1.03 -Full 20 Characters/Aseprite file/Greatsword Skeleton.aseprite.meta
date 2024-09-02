@@ -1,0 +1,1595 @@
+fileFormatVersion: 2
+guid: a70ef3da39db32744a96c114b48eb5e8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Greatsword Skeleton_Frame_0
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 326
+      width: 31
+      height: 22
+    spriteID: 2bc1226048d9b714f9c94ab21a13778c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 326}
+  - name: Greatsword Skeleton_Frame_5
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 356
+      width: 31
+      height: 22
+    spriteID: 039f1d677f6f26b45b19250bc6b6813b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 356}
+  - name: Greatsword Skeleton_Frame_6
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 386
+      width: 31
+      height: 22
+    spriteID: 89b0c16d643a17f47bc17bf982965fc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 386}
+  - name: Greatsword Skeleton_Frame_7
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 416
+      width: 31
+      height: 22
+    spriteID: 81a903ca5116aec48bfa91a73aaeb970
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 416}
+  - name: Greatsword Skeleton_Frame_8
+    originalName: 
+    pivot: {x: 0.6875, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 436
+      width: 32
+      height: 22
+    spriteID: d70cb1b0dea89c94f9b2fdc728d77289
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 436}
+  - name: Greatsword Skeleton_Frame_9
+    originalName: 
+    pivot: {x: 0.6666666, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 177
+      width: 33
+      height: 21
+    spriteID: 6b74eaac181f5074fad0b044e70ecd93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 177}
+  - name: Greatsword Skeleton_Frame_10
+    originalName: 
+    pivot: {x: 0.6666666, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 206
+      width: 33
+      height: 21
+    spriteID: 4220f94aebbec344d8ed5510edb56086
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 206}
+  - name: Greatsword Skeleton_Frame_11
+    originalName: 
+    pivot: {x: 0.67741936, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 446
+      width: 31
+      height: 22
+    spriteID: 090f03f44342e9645bedf2ec2e0314a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 446}
+  - name: Greatsword Skeleton_Frame_12
+    originalName: 
+    pivot: {x: 0.7, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 184
+      width: 30
+      height: 22
+    spriteID: 217f95b5b7284aa42b6a60f04e19facb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 184}
+  - name: Greatsword Skeleton_Frame_13
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 476
+      width: 31
+      height: 22
+    spriteID: 08b999360ee5b0f428a16b5561fa4675
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 476}
+  - name: Greatsword Skeleton_Frame_14
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 4
+      width: 31
+      height: 22
+    spriteID: 96b270810dfb8cf479bcad242b3b4fe3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 4}
+  - name: Greatsword Skeleton_Frame_15
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 34
+      width: 31
+      height: 22
+    spriteID: b11856a774ae1f543892214d8cd12a6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 34}
+  - name: Greatsword Skeleton_Frame_16
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 312
+      width: 31
+      height: 23
+    spriteID: d1b2f2312d1b3ef4caca5d3d77da5ca1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 312}
+  - name: Greatsword Skeleton_Frame_17
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 214
+      width: 31
+      height: 21
+    spriteID: e7e2a626a17b8e749a6b6fe799fad49d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 214}
+  - name: Greatsword Skeleton_Frame_18
+    originalName: 
+    pivot: {x: 0.6, y: -1.0333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 274
+      width: 25
+      height: 30
+    spriteID: 385f2767725cf6d45ba6adf7984fe493
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 274}
+  - name: Greatsword Skeleton_Frame_19
+    originalName: 
+    pivot: {x: 0.18421051, y: -1.0689656}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 50
+      width: 38
+      height: 29
+    spriteID: d055d1803889c084292ac16e66e716e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 50}
+  - name: Greatsword Skeleton_Frame_20
+    originalName: 
+    pivot: {x: 0.14893615, y: -1.6086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 95
+      width: 47
+      height: 23
+    spriteID: 48f6401d5f7cab74cb74807b57f9bdf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 95}
+  - name: Greatsword Skeleton_Frame_21
+    originalName: 
+    pivot: {x: 0.15555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 155
+      width: 45
+      height: 20
+    spriteID: b1eb097de70d07f44aaf36c1bcbecd8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 155}
+  - name: Greatsword Skeleton_Frame_22
+    originalName: 
+    pivot: {x: 0.19444442, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 245
+      width: 36
+      height: 21
+    spriteID: 879b4ac46d88c4c4fb068de510f546f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 245}
+  - name: Greatsword Skeleton_Frame_23
+    originalName: 
+    pivot: {x: 0.21874997, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 32
+      height: 21
+    spriteID: 28877eef5486d7e408606b776a5dc6a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 32}
+  - name: Greatsword Skeleton_Frame_24
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 64
+      width: 31
+      height: 22
+    spriteID: f7475ee540d09014f897e857a99a1071
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 64}
+  - name: Greatsword Skeleton_Frame_25
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 343
+      width: 31
+      height: 23
+    spriteID: 4fa7ec3f8c0c668408be7fc6ab1ec151
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 343}
+  - name: Greatsword Skeleton_Frame_26
+    originalName: 
+    pivot: {x: 0.7, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 264
+      width: 30
+      height: 23
+    spriteID: 8811350adf891da42a87de2787301459
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 264}
+  - name: Greatsword Skeleton_Frame_27
+    originalName: 
+    pivot: {x: 0.6666666, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 295
+      width: 30
+      height: 23
+    spriteID: 8b1b1e927a1cf5948904efc2f9256ad0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 295}
+  - name: Greatsword Skeleton_Frame_28
+    originalName: 
+    pivot: {x: 0.47368422, y: -1.2903227}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 243
+      width: 19
+      height: 31
+    spriteID: 3a2545589821893418e2068cce26557f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 243}
+  - name: Greatsword Skeleton_Frame_29
+    originalName: 
+    pivot: {x: 0.41176465, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 429
+      width: 17
+      height: 32
+    spriteID: bf479b13764caac409492d94bd1a9baf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 429}
+  - name: Greatsword Skeleton_Frame_30
+    originalName: 
+    pivot: {x: 0.14583331, y: -1.0526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 48
+      height: 38
+    spriteID: 457f00a68b49ffd40bb18481c5eccc85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Greatsword Skeleton_Frame_31
+    originalName: 
+    pivot: {x: 0.13207546, y: -1.6}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 4
+      width: 53
+      height: 25
+    spriteID: 13ffebfb2cdf6804daddb65fb3cd0ef7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 4}
+  - name: Greatsword Skeleton_Frame_32
+    originalName: 
+    pivot: {x: 0.13461536, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 37
+      width: 52
+      height: 21
+    spriteID: e55ec5cddb9bf024a9f6ae007e21c87f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 37}
+  - name: Greatsword Skeleton_Frame_33
+    originalName: 
+    pivot: {x: 0.13461536, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 66
+      width: 52
+      height: 21
+    spriteID: 7bb925e36c9088748a16c69bbf687596
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 66}
+  - name: Greatsword Skeleton_Frame_34
+    originalName: 
+    pivot: {x: 0.21212119, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 235
+      width: 33
+      height: 21
+    spriteID: fc2457769d107124ba090f0cb7f47f66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 235}
+  - name: Greatsword Skeleton_Frame_35
+    originalName: 
+    pivot: {x: 0.26923072, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 371
+      width: 26
+      height: 21
+    spriteID: 0b21cc91b8af5314488f4348013ddcdc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 371}
+  - name: Greatsword Skeleton_Frame_36
+    originalName: 
+    pivot: {x: 0.27999997, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 311
+      width: 25
+      height: 22
+    spriteID: 2fca0f9366221ad43a30fe08b4da215a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 311}
+  - name: Greatsword Skeleton_Frame_37
+    originalName: 
+    pivot: {x: 0.25925922, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 282
+      width: 27
+      height: 21
+    spriteID: 1c260cd03d03df54291d6ecfa7e586dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 282}
+  - name: Greatsword Skeleton_Frame_38
+    originalName: 
+    pivot: {x: 0.26923072, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 400
+      width: 26
+      height: 21
+    spriteID: 8ae8de45b96ff694894847d5c70128db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 400}
+  - name: Greatsword Skeleton_Frame_39
+    originalName: 
+    pivot: {x: 0.29166663, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 469
+      width: 24
+      height: 21
+    spriteID: 8775c39c79ceb9441bbe5a9d281e7e06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 469}
+  - name: Greatsword Skeleton_Frame_40
+    originalName: 
+    pivot: {x: 0.15909089, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 126
+      width: 44
+      height: 21
+    spriteID: 48dadb90554c9fa42973206ced410eab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 126}
+  - name: Greatsword Skeleton_Frame_41
+    originalName: 
+    pivot: {x: 0.18918918, y: -1.7727271}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 183
+      width: 37
+      height: 22
+    spriteID: 57bf6c7db1cc4a1439a18a6b85a35713
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 183}
+  - name: Greatsword Skeleton_Frame_42
+    originalName: 
+    pivot: {x: 0.21212119, y: -1.5416666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 213
+      width: 33
+      height: 24
+    spriteID: 14f58c46452f9cd42b54d3c1c11c8f89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 213}
+  - name: Greatsword Skeleton_Frame_43
+    originalName: 
+    pivot: {x: 0.27999997, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 341
+      width: 25
+      height: 22
+    spriteID: 8ef6d7ca4c80c054ca0ff2cf94b6ba80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 341}
+  - name: Greatsword Skeleton_Frame_44
+    originalName: 
+    pivot: {x: 0.75, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 466
+      width: 32
+      height: 22
+    spriteID: d89d5057319da6d42ae735b67702f8db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 466}
+  - name: Greatsword Skeleton_Frame_46
+    originalName: 
+    pivot: {x: 0.75, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 87
+      width: 32
+      height: 22
+    spriteID: 5351cbc49604ff2439dde20602178ef9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 87}
+  - name: Greatsword Skeleton_Frame_47
+    originalName: 
+    pivot: {x: 0.75, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 117
+      width: 32
+      height: 22
+    spriteID: 7936d9fb488d56a4186047c14c60a13a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 117}
+  - name: Greatsword Skeleton_Frame_48
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 94
+      width: 31
+      height: 22
+    spriteID: d9c5b1ec8fedc7340a9e3ce49bc2a2cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 94}
+  - name: Greatsword Skeleton_Frame_49
+    originalName: 
+    pivot: {x: 0.7058824, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 4
+      width: 34
+      height: 20
+    spriteID: 4f56e13c8bae32042aa8dd845fa15bda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 160, y: 4}
+  - name: Greatsword Skeleton_Frame_50
+    originalName: 
+    pivot: {x: 0.61538464, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 4
+      width: 39
+      height: 16
+    spriteID: 896fd864d747f51438e7aa20919c752d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 4}
+  - name: Greatsword Skeleton_Frame_51
+    originalName: 
+    pivot: {x: 0.61538464, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 28
+      width: 39
+      height: 16
+    spriteID: 7b5dbabe180931541b078dec23028ce4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 28}
+  - name: Greatsword Skeleton_Frame_1
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 124
+      width: 31
+      height: 22
+    spriteID: 9bccd3ff318d8d048a9dcba161278342
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 124}
+  - name: Greatsword Skeleton_Frame_2
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 374
+      width: 31
+      height: 23
+    spriteID: 4ccccd43ca2edb34e9264c180c9a2ba3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 374}
+  - name: Greatsword Skeleton_Frame_3
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.7391304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 405
+      width: 31
+      height: 23
+    spriteID: 55806c9b9515f184f8f68dd0b030082a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 405}
+  - name: Greatsword Skeleton_Frame_4
+    originalName: 
+    pivot: {x: 0.7096774, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 154
+      width: 31
+      height: 22
+    spriteID: 0649d9a196c309543b9dbc585032086b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 154}
+  - name: Greatsword Skeleton_Frame_45
+    originalName: 
+    pivot: {x: 0.75, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 147
+      width: 32
+      height: 22
+    spriteID: 6d34634c03dd39a47863043ebfe3a74b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 147}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -305397471
+    name: Greatsword Skeleton
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Greatsword Skeleton_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: 2bc1226048d9b714f9c94ab21a13778c
+    - name: Greatsword Skeleton_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: 039f1d677f6f26b45b19250bc6b6813b
+    - name: Greatsword Skeleton_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: 89b0c16d643a17f47bc17bf982965fc2
+    - name: Greatsword Skeleton_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: 81a903ca5116aec48bfa91a73aaeb970
+    - name: Greatsword Skeleton_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 28
+        y: 40
+        width: 32
+        height: 22
+      spriteId: d70cb1b0dea89c94f9b2fdc728d77289
+    - name: Greatsword Skeleton_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 28
+        y: 40
+        width: 33
+        height: 21
+      spriteId: 6b74eaac181f5074fad0b044e70ecd93
+    - name: Greatsword Skeleton_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 28
+        y: 40
+        width: 33
+        height: 21
+      spriteId: 4220f94aebbec344d8ed5510edb56086
+    - name: Greatsword Skeleton_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 29
+        y: 40
+        width: 31
+        height: 22
+      spriteId: 090f03f44342e9645bedf2ec2e0314a5
+    - name: Greatsword Skeleton_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 29
+        y: 40
+        width: 30
+        height: 22
+      spriteId: 217f95b5b7284aa42b6a60f04e19facb
+    - name: Greatsword Skeleton_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: 08b999360ee5b0f428a16b5561fa4675
+    - name: Greatsword Skeleton_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: 96b270810dfb8cf479bcad242b3b4fe3
+    - name: Greatsword Skeleton_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: b11856a774ae1f543892214d8cd12a6c
+    - name: Greatsword Skeleton_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 23
+      spriteId: d1b2f2312d1b3ef4caca5d3d77da5ca1
+    - name: Greatsword Skeleton_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 21
+      spriteId: e7e2a626a17b8e749a6b6fe799fad49d
+    - name: Greatsword Skeleton_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 35
+        y: 31
+        width: 25
+        height: 30
+      spriteId: 385f2767725cf6d45ba6adf7984fe493
+    - name: Greatsword Skeleton_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 43
+        y: 31
+        width: 38
+        height: 29
+      spriteId: d055d1803889c084292ac16e66e716e2
+    - name: Greatsword Skeleton_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 43
+        y: 37
+        width: 47
+        height: 23
+      spriteId: 48f6401d5f7cab74cb74807b57f9bdf8
+    - name: Greatsword Skeleton_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 43
+        y: 40
+        width: 45
+        height: 20
+      spriteId: b1eb097de70d07f44aaf36c1bcbecd8c
+    - name: Greatsword Skeleton_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 43
+        y: 40
+        width: 36
+        height: 21
+      spriteId: 879b4ac46d88c4c4fb068de510f546f0
+    - name: Greatsword Skeleton_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 43
+        y: 40
+        width: 32
+        height: 21
+      spriteId: 28877eef5486d7e408606b776a5dc6a6
+    - name: Greatsword Skeleton_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: f7475ee540d09014f897e857a99a1071
+    - name: Greatsword Skeleton_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 23
+      spriteId: 4fa7ec3f8c0c668408be7fc6ab1ec151
+    - name: Greatsword Skeleton_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 29
+        y: 40
+        width: 30
+        height: 23
+      spriteId: 8811350adf891da42a87de2787301459
+    - name: Greatsword Skeleton_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 30
+        y: 40
+        width: 30
+        height: 23
+      spriteId: 8b1b1e927a1cf5948904efc2f9256ad0
+    - name: Greatsword Skeleton_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 41
+        y: 40
+        width: 19
+        height: 31
+      spriteId: 3a2545589821893418e2068cce26557f
+    - name: Greatsword Skeleton_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 43
+        y: 40
+        width: 17
+        height: 32
+      spriteId: bf479b13764caac409492d94bd1a9baf
+    - name: Greatsword Skeleton_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 43
+        y: 40
+        width: 48
+        height: 38
+      spriteId: 457f00a68b49ffd40bb18481c5eccc85
+    - name: Greatsword Skeleton_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 43
+        y: 40
+        width: 53
+        height: 25
+      spriteId: 13ffebfb2cdf6804daddb65fb3cd0ef7
+    - name: Greatsword Skeleton_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 43
+        y: 40
+        width: 52
+        height: 21
+      spriteId: e55ec5cddb9bf024a9f6ae007e21c87f
+    - name: Greatsword Skeleton_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 43
+        y: 40
+        width: 52
+        height: 21
+      spriteId: 7bb925e36c9088748a16c69bbf687596
+    - name: Greatsword Skeleton_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 43
+        y: 40
+        width: 33
+        height: 21
+      spriteId: fc2457769d107124ba090f0cb7f47f66
+    - name: Greatsword Skeleton_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 43
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 0b21cc91b8af5314488f4348013ddcdc
+    - name: Greatsword Skeleton_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 43
+        y: 40
+        width: 25
+        height: 22
+      spriteId: 2fca0f9366221ad43a30fe08b4da215a
+    - name: Greatsword Skeleton_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 43
+        y: 40
+        width: 27
+        height: 21
+      spriteId: 1c260cd03d03df54291d6ecfa7e586dd
+    - name: Greatsword Skeleton_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 43
+        y: 40
+        width: 26
+        height: 21
+      spriteId: 8ae8de45b96ff694894847d5c70128db
+    - name: Greatsword Skeleton_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 43
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 8775c39c79ceb9441bbe5a9d281e7e06
+    - name: Greatsword Skeleton_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 43
+        y: 40
+        width: 44
+        height: 21
+      spriteId: 48dadb90554c9fa42973206ced410eab
+    - name: Greatsword Skeleton_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 43
+        y: 39
+        width: 37
+        height: 22
+      spriteId: 57bf6c7db1cc4a1439a18a6b85a35713
+    - name: Greatsword Skeleton_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 43
+        y: 37
+        width: 33
+        height: 24
+      spriteId: 14f58c46452f9cd42b54d3c1c11c8f89
+    - name: Greatsword Skeleton_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 43
+        y: 40
+        width: 25
+        height: 22
+      spriteId: 8ef6d7ca4c80c054ca0ff2cf94b6ba80
+    - name: Greatsword Skeleton_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 26
+        y: 40
+        width: 32
+        height: 22
+      spriteId: d89d5057319da6d42ae735b67702f8db
+    - name: Greatsword Skeleton_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 26
+        y: 40
+        width: 32
+        height: 22
+      spriteId: 5351cbc49604ff2439dde20602178ef9
+    - name: Greatsword Skeleton_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 26
+        y: 40
+        width: 32
+        height: 22
+      spriteId: 7936d9fb488d56a4186047c14c60a13a
+    - name: Greatsword Skeleton_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: d9c5b1ec8fedc7340a9e3ce49bc2a2cd
+    - name: Greatsword Skeleton_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 26
+        y: 40
+        width: 34
+        height: 20
+      spriteId: 4f56e13c8bae32042aa8dd845fa15bda
+    - name: Greatsword Skeleton_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 26
+        y: 40
+        width: 39
+        height: 16
+      spriteId: 896fd864d747f51438e7aa20919c752d
+    - name: Greatsword Skeleton_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 26
+        y: 40
+        width: 39
+        height: 16
+      spriteId: 7b5dbabe180931541b078dec23028ce4
+    - name: Greatsword Skeleton_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: 9bccd3ff318d8d048a9dcba161278342
+    - name: Greatsword Skeleton_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 23
+      spriteId: 4ccccd43ca2edb34e9264c180c9a2ba3
+    - name: Greatsword Skeleton_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 23
+      spriteId: 55806c9b9515f184f8f68dd0b030082a
+    - name: Greatsword Skeleton_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 28
+        y: 40
+        width: 31
+        height: 22
+      spriteId: 0649d9a196c309543b9dbc585032086b
+    - name: Greatsword Skeleton_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 26
+        y: 40
+        width: 32
+        height: 22
+      spriteId: 6d34634c03dd39a47863043ebfe3a74b
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}
