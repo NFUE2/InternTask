@@ -1,21 +1,16 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerAnimationData : MonoBehaviour
+public class PlayerAnimationData : AnimationData
 {
-    [SerializeField] private string idleParameter = "idle";
-    [SerializeField] private string attackNormalParameter = "attackN";
-    [SerializeField] private string attackCriticalParameter = "attackC";
+    //[SerializeField] private string idleParameter = "idle";
+    [SerializeField] private string attackParameter = "Attack";
 
-    public int idle { get; private set; }
-    public int attackN { get; private set; }
-    public int attackC { get; private set; }
+    //public int idle { get; private set; }
+    public int attack { get; private set; }
 
-    public void Init()
+    public override void Init()
     {
-        idle = Animator.StringToHash(idleParameter);
-        attackN = Animator.StringToHash(attackNormalParameter);
-        attackC = Animator.StringToHash(attackCriticalParameter);
+        //idle = Animator.StringToHash(idleParameter);
+        attack = Animator.StringToHash(attackParameter);
     }
 }

@@ -1,16 +1,13 @@
-using Unity.VisualScripting;
-using UnityEngine;
-
 public class PlayerStateMachine : StateMachine<IPlayerState, PlayerControl>
 {
-    public PlayerStateMachine(PlayerControl control) : base(control) { }
+    public PlayerIdleState idleState;
+    public PlayerAttackState attackState;
 
-    public void StartAnimation(string hash)
+    public PlayerStateMachine(PlayerControl control) : base(control) 
     {
-        control.animator.SetBool(hash,true);
-    }
-    public void StopAnimation(string hash)
-    {
-        control.animator.SetBool(hash, false);
+        idleState = new PlayerIdleState(this);
+        attackState = new PlayerAttackState(this);
+
+        ChangeState(idleState);
     }
 }

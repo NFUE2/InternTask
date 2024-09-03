@@ -8,3 +8,8 @@ public interface IPlayerState : IState
 {
     public void Update();
 }
+
+public interface IDamageable
+{
+    public void TakeDamage(float damage);
+}

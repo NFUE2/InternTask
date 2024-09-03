@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class PlayerBaseState : IPlayerState
 {
-    protected StateMachine<IPlayerState, PlayerControl> stateMachine;
-    public PlayerBaseState(StateMachine<IPlayerState,PlayerControl> stateMachine) 
+    protected PlayerStateMachine stateMachine;
+    public PlayerBaseState(PlayerStateMachine stateMachine) 
     {
         this.stateMachine = stateMachine;
     }
