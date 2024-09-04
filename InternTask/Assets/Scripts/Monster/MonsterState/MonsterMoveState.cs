@@ -9,7 +9,7 @@ public class MonsterMoveState : MonsterBaseState
     {
         speed = stateMachine.control.data.speed;
         transform = stateMachine.control.transform;
-        target = stateMachine.control.target;
+        target = stateMachine.control.transform;
     }
 
     public override void Enter()

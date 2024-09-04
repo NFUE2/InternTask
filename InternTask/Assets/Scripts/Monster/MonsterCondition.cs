@@ -19,7 +19,7 @@ public class MonsterCondition : MonoBehaviour,IDamagable
     private void Awake()
     {
         control = GetComponent<MonsterControl>();
-        col = GetComponent<Collider2D>();
+        col = GetComponentInChildren<Collider2D>();
 
         OnRespawn += SetHP;
         OnRespawn += ConditionSwitch;
@@ -39,6 +39,7 @@ public class MonsterCondition : MonoBehaviour,IDamagable
 
     public void TakeDamage(float damage)
     {
+        Debug.Log(1);
         curhp = Mathf.Max(curhp - damage, 0);
         hpBar.fillAmount = GetHP();
         OnHit?.Invoke();
@@ -51,7 +52,7 @@ public class MonsterCondition : MonoBehaviour,IDamagable
     private void SetHP()
     {
         curhp = control.data.health;
-        GetHP();
+        hpBar.fillAmount = GetHP();
     }
     private void ConditionSwitch()
     {

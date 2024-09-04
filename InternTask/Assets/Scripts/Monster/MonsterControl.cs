@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Linq.Expressions;
 using UnityEngine;
 
 public class MonsterControl : CharacterControl
@@ -16,8 +17,13 @@ public class MonsterControl : CharacterControl
         data = new MonsterData();
         data = DataManager.dict[gameObject.name];
 
-        stateMachine = new MonsterStateMachine(this);
         condition = GetComponent<MonsterCondition>();
+        stateMachine = new MonsterStateMachine(this);
+    }
+
+    private void Start()
+    {
+       
     }
 
     private void Update()
