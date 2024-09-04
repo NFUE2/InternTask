@@ -4,14 +4,13 @@ using UnityEngine;
 public class MonsterMoveState : MonsterBaseState
 {
     private float speed;
-    private Transform transform,target;
-    private Vector2 destination;
+    private Transform transform, destination;
+
     public MonsterMoveState(MonsterStateMachine stateMachine) : base(stateMachine) 
     {
         speed = stateMachine.control.data.speed;
         transform = stateMachine.control.transform;
-        target = stateMachine.control.target;
-        destination = target.position + new Vector3(0,-0.5f);
+        destination = MapManager.Instance.destination;
     }
 
     public override void Enter()
@@ -29,10 +28,10 @@ public class MonsterMoveState : MonsterBaseState
     public override void Update()
     {
         base.Update();
-        if((Vector2)transform.position != destination)
+        if(transform.position != destination.position)
         {
             transform.position = 
-                Vector2.MoveTowards(transform.position,destination,speed * Time.deltaTime);
+                Vector2.MoveTowards(transform.position,destination.position,speed * Time.deltaTime);
         }
         else stateMachine.ChangeState(stateMachine.idleState);
     }

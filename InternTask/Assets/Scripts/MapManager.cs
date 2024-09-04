@@ -13,20 +13,26 @@ public class MapManager : Singleton<MapManager>
 
     public override void Awake()
     {
+        base.Awake();
         Init();
     }
 
     private async void Init()
     {
-        monsters = new List<GameObject>();
+        monsters = new List<GameObject>(DataManager.dict.Count);
 
         await Addressables.LoadAssetsAsync<GameObject>("Monster",g => {
+
             GameObject m = Instantiate(g,start.position,Quaternion.identity);
-            monsters.Add(m);
+
+            int id = (int) m.GetComponent<MonsterControl>().data.grade;
+
+            monsters[id] = m;
             m.SetActive(false);
+
         }).Task;
     }
-
+   
     public void SpawnMonster()
     {
         curCount = (curCount + 1) % monsters.Count;
