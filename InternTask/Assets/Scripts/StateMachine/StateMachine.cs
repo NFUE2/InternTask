@@ -16,7 +16,7 @@ public class StateMachine<T1,T2> where T1 : IState where T2 : CharacterControl
         curstate?.Enter();
     }
 
-    public void StartAnimation(int hash)
+    public virtual void StartAnimation(int hash)
     {
         control.animator.SetBool(hash, true);
     }

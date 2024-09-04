@@ -1,4 +1,4 @@
-public class PlayerStateMachine : StateMachine<IPlayerState, PlayerControl>
+public class PlayerStateMachine : StateMachine<ICharacterState, PlayerControl>
 {
     public PlayerIdleState idleState;
     public PlayerAttackState attackState;

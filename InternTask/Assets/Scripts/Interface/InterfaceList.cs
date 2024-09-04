@@ -4,12 +4,12 @@ public interface IState
     public void Exit();
 }
 
-public interface IPlayerState : IState
+public interface ICharacterState : IState
 {
     public void Update();
 }
 
-public interface IDamageable
+public interface IDamagable
 {
     public void TakeDamage(float damage);
 }

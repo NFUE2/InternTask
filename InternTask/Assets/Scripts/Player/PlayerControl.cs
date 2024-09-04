@@ -1,13 +1,12 @@
-using UnityEditor.Build.Pipeline;
 using UnityEngine;
 
 public class PlayerControl : CharacterControl
 {
-    [field: SerializeField] public PlayerAnimationData animationData { get; private set; }
     private PlayerStateMachine stateMachine;
 
     public GameObject battleBox;
     public LayerMask enemy;
+    [field: SerializeField] public PlayerAnimationData animationData { get; private set; }
 
     public void Awake()
     {
