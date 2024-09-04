@@ -10,22 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: UI
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: UI
   m_Data:
     m_SerializedData: []
-  m_GUID: faf218c20aa1e684a95a1bc98bd675d8
+  m_GUID: be6f09dc2e0c78640afb9f321db11e12
   m_SerializeEntries:
-  - m_GUID: 34089ec3ad1aac742b10398c76f52681
-    m_Address: Assets/Prefab/Monster
+  - m_GUID: 4de8b58f8ec9c9e48ac264ede671d77f
+    m_Address: IntroSceneUI
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - Monster
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 565a8d9d9b7b8744196ad176ebb42418, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: ff50d8a9a7549bf47ab65e9428d9bd53, type: 2}
-    - {fileID: 11400000, guid: 6f25b54236832d14494251e6ce374d66, type: 2}
+    - {fileID: 11400000, guid: 93ca575ff32d44948ae2a3f326ea1b5c, type: 2}
+    - {fileID: 11400000, guid: 214551d122a06e34b8469e8034afe9c6, type: 2}
