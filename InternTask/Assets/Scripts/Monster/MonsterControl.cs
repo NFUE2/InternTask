@@ -14,6 +14,8 @@ public class MonsterControl : CharacterControl
 
     public void Awake()
     {
+        gameObject.name = gameObject.name.Replace("(Clone)", "");
+
         data = new MonsterData();
         data = DataManager.dict[gameObject.name];
         animationData.Init();

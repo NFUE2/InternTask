@@ -18,11 +18,6 @@ public class DataManager : MonoBehaviour
 
     private string path = $"https://docs.google.com/spreadsheets/d/1kjsH90QXjnVyyNlh3ayKW4pU4f8H8SF1TtF9zuNGLnI/export?format=csv&gid=0";
 
-    //private void Awake()
-    //{
-    //    if(dict.Count == 0) StartCoroutine(LoadData());
-    //}
-
     public IEnumerator LoadData()
     {
         UnityWebRequest www = UnityWebRequest.Get(path);
@@ -49,7 +44,7 @@ public class DataManager : MonoBehaviour
                 else
                 {
                     var m = JsonUtility.FromJson<MonsterData>(CreateJson(keys, arr));
-                    dict[m.name] = m; 
+                    dict[m.name] = m;
                 }
             }
         }
