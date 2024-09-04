@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638610647778565094
+  platformSettingsDirtyTick: 638610716628475405
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -123,7 +123,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Skeleton_Frame_0
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -143,7 +143,7 @@ ScriptedImporter:
     uvTransform: {x: 184, y: 37}
   - name: Skeleton_Frame_1
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -163,7 +163,7 @@ ScriptedImporter:
     uvTransform: {x: 218, y: 37}
   - name: Skeleton_Frame_2
     originalName: 
-    pivot: {x: 0.26923072, y: -2.6875}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -183,7 +183,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 60}
   - name: Skeleton_Frame_3
     originalName: 
-    pivot: {x: 0.26923072, y: -2.6875}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -203,7 +203,7 @@ ScriptedImporter:
     uvTransform: {x: 38, y: 60}
   - name: Skeleton_Frame_4
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -223,7 +223,7 @@ ScriptedImporter:
     uvTransform: {x: 72, y: 60}
   - name: Skeleton_Frame_5
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -243,7 +243,7 @@ ScriptedImporter:
     uvTransform: {x: 106, y: 60}
   - name: Skeleton_Frame_6
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -263,7 +263,7 @@ ScriptedImporter:
     uvTransform: {x: 140, y: 60}
   - name: Skeleton_Frame_7
     originalName: 
-    pivot: {x: 0.24000001, y: -2.9333332}
+    pivot: {x: 0.24000001, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -283,7 +283,7 @@ ScriptedImporter:
     uvTransform: {x: 208, y: 84}
   - name: Skeleton_Frame_8
     originalName: 
-    pivot: {x: 0.24000001, y: -2.8666666}
+    pivot: {x: 0.24000001, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -303,7 +303,7 @@ ScriptedImporter:
     uvTransform: {x: 30, y: 107}
   - name: Skeleton_Frame_9
     originalName: 
-    pivot: {x: 0.26923072, y: -3.0714285}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -323,7 +323,7 @@ ScriptedImporter:
     uvTransform: {x: 63, y: 107}
   - name: Skeleton_Frame_10
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -343,7 +343,7 @@ ScriptedImporter:
     uvTransform: {x: 174, y: 60}
   - name: Skeleton_Frame_11
     originalName: 
-    pivot: {x: 0.26923072, y: -2.9333332}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -363,7 +363,7 @@ ScriptedImporter:
     uvTransform: {x: 208, y: 60}
   - name: Skeleton_Frame_12
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -383,7 +383,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 84}
   - name: Skeleton_Frame_13
     originalName: 
-    pivot: {x: 0.26923072, y: -3.0714285}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -403,7 +403,7 @@ ScriptedImporter:
     uvTransform: {x: 97, y: 107}
   - name: Skeleton_Frame_14
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -423,7 +423,7 @@ ScriptedImporter:
     uvTransform: {x: 38, y: 84}
   - name: Skeleton_Frame_15
     originalName: 
-    pivot: {x: 0.38888884, y: -2.047619}
+    pivot: {x: 0.38888884, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -443,7 +443,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 107}
   - name: Skeleton_Frame_16
     originalName: 
-    pivot: {x: 0.6190476, y: -2.6875}
+    pivot: {x: 0.6190476, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -503,7 +503,7 @@ ScriptedImporter:
     uvTransform: {x: 90, y: 4}
   - name: Skeleton_Frame_19
     originalName: 
-    pivot: {x: 0.28571433, y: -2.8}
+    pivot: {x: 0.28571433, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -523,7 +523,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 37}
   - name: Skeleton_Frame_20
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -543,7 +543,7 @@ ScriptedImporter:
     uvTransform: {x: 72, y: 84}
   - name: Skeleton_Frame_21
     originalName: 
-    pivot: {x: 0.5555555, y: -2.8}
+    pivot: {x: 0.5555555, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -563,7 +563,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 153}
   - name: Skeleton_Frame_22
     originalName: 
-    pivot: {x: 0.50000006, y: -2.8}
+    pivot: {x: 0.50000006, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -643,7 +643,7 @@ ScriptedImporter:
     uvTransform: {x: 173, y: 4}
   - name: Skeleton_Frame_26
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -663,7 +663,7 @@ ScriptedImporter:
     uvTransform: {x: 106, y: 84}
   - name: Skeleton_Frame_27
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -683,7 +683,7 @@ ScriptedImporter:
     uvTransform: {x: 140, y: 84}
   - name: Skeleton_Frame_28
     originalName: 
-    pivot: {x: 0.13636364, y: -2.8666666}
+    pivot: {x: 0.13636364, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -703,7 +703,7 @@ ScriptedImporter:
     uvTransform: {x: 160, y: 107}
   - name: Skeleton_Frame_29
     originalName: 
-    pivot: {x: 0.13636364, y: -2.8666666}
+    pivot: {x: 0.13636364, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -723,7 +723,7 @@ ScriptedImporter:
     uvTransform: {x: 190, y: 107}
   - name: Skeleton_Frame_30
     originalName: 
-    pivot: {x: 0.13636364, y: -2.8666666}
+    pivot: {x: 0.13636364, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -743,7 +743,7 @@ ScriptedImporter:
     uvTransform: {x: 220, y: 107}
   - name: Skeleton_Frame_31
     originalName: 
-    pivot: {x: 0.35714284, y: -2.8666666}
+    pivot: {x: 0.35714284, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -763,7 +763,7 @@ ScriptedImporter:
     uvTransform: {x: 40, y: 37}
   - name: Skeleton_Frame_32
     originalName: 
-    pivot: {x: 0.35714284, y: -2.8666666}
+    pivot: {x: 0.35714284, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -783,7 +783,7 @@ ScriptedImporter:
     uvTransform: {x: 76, y: 37}
   - name: Skeleton_Frame_33
     originalName: 
-    pivot: {x: 0.35714284, y: -2.8666666}
+    pivot: {x: 0.35714284, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -803,7 +803,7 @@ ScriptedImporter:
     uvTransform: {x: 112, y: 37}
   - name: Skeleton_Frame_34
     originalName: 
-    pivot: {x: 0.35714284, y: -2.8666666}
+    pivot: {x: 0.35714284, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -823,7 +823,7 @@ ScriptedImporter:
     uvTransform: {x: 148, y: 37}
   - name: Skeleton_Frame_35
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.26923072, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -843,7 +843,7 @@ ScriptedImporter:
     uvTransform: {x: 174, y: 84}
   - name: Skeleton_Frame_36
     originalName: 
-    pivot: {x: 0.27272728, y: -3.3076923}
+    pivot: {x: 0.27272728, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -863,7 +863,7 @@ ScriptedImporter:
     uvTransform: {x: 211, y: 4}
   - name: Skeleton_Frame_37
     originalName: 
-    pivot: {x: 0.2647059, y: -4.7777777}
+    pivot: {x: 0.2647059, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -883,7 +883,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 136}
   - name: Skeleton_Frame_38
     originalName: 
-    pivot: {x: 0.375, y: -4.7777777}
+    pivot: {x: 0.375, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:

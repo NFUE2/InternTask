@@ -16,14 +16,9 @@ public class MonsterControl : CharacterControl
     {
         data = new MonsterData();
         data = DataManager.dict[gameObject.name];
+        animationData.Init();
 
-        condition = GetComponent<MonsterCondition>();
         stateMachine = new MonsterStateMachine(this);
-    }
-
-    private void Start()
-    {
-       
     }
 
     private void Update()

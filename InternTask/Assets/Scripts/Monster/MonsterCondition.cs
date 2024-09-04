@@ -1,5 +1,6 @@
 using System;
 using Unity.Properties;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -10,7 +11,7 @@ public class MonsterCondition : MonoBehaviour,IDamagable
     public event Action OnDie;
     public event Action OnHit;
 
-    private MonsterControl control;
+    public MonsterControl control;
     public GameObject hpCanvas;
     public Image hpBar;
     private Behaviour col;
@@ -18,8 +19,7 @@ public class MonsterCondition : MonoBehaviour,IDamagable
 
     private void Awake()
     {
-        control = GetComponent<MonsterControl>();
-        col = GetComponentInChildren<Collider2D>();
+        col = GetComponent<Collider2D>();
 
         OnRespawn += SetHP;
         OnRespawn += ConditionSwitch;
@@ -39,10 +39,12 @@ public class MonsterCondition : MonoBehaviour,IDamagable
 
     public void TakeDamage(float damage)
     {
-        Debug.Log(1);
         curhp = Mathf.Max(curhp - damage, 0);
         hpBar.fillAmount = GetHP();
+
         OnHit?.Invoke();
+
+        if (curhp == 0) OnDie?.Invoke();
     }
     private float GetHP()
     {
@@ -61,4 +63,6 @@ public class MonsterCondition : MonoBehaviour,IDamagable
         col.enabled = isDie ? false : true;
         hpCanvas.SetActive(!isDie);
     }
+
+    public void Disable() => gameObject.SetActive(false);
 }

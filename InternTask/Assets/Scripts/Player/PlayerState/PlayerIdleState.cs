@@ -1,3 +1,4 @@
+using UnityEditor.Tilemaps;
 using UnityEngine;
 
 public class PlayerIdleState : PlayerBaseState
@@ -29,7 +30,8 @@ public class PlayerIdleState : PlayerBaseState
     public override void Update()
     {
         base.Update();
-        bool isTargeting = Physics2D.OverlapBox(box.transform.position,box.transform.lossyScale,0.0f,enemy);
+        //bool isTargeting = Physics2D.OverlapBox(box.transform.position,box.transform.lossyScale,0.0f,enemy);
+        bool isTargeting = Physics2D.OverlapPoint(box.transform.position,enemy);
 
         if(isTargeting && Time.time - lastAttackTime > 1.0f)
             stateMachine.ChangeState(stateMachine.attackState);

@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 public class MonsterIdleState : MonsterBaseState
 {
     public MonsterIdleState(MonsterStateMachine stateMachine) : base(stateMachine) 
@@ -11,7 +13,7 @@ public class MonsterIdleState : MonsterBaseState
         bool isDie = curhp == 0;
 
         ICharacterState nextState = isDie ? 
-            stateMachine.hurtState : stateMachine.dieState;
+            stateMachine.dieState : stateMachine.hurtState;
 
         stateMachine.ChangeState(nextState); 
     }
