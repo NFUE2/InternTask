@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638610625694048775
+  platformSettingsDirtyTick: 638610627191782307
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -123,7 +123,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Skeleton_Frame_0
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.46, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -141,9 +141,9 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 184, y: 37}
-  - name: Skeleton_Frame_35
+  - name: Skeleton_Frame_1
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.46, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -161,9 +161,9 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 218, y: 37}
-  - name: Skeleton_Frame_36
+  - name: Skeleton_Frame_2
     originalName: 
-    pivot: {x: 0.26923072, y: -2.6875}
+    pivot: {x: 0.46, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -181,9 +181,9 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 60}
-  - name: Skeleton_Frame_37
+  - name: Skeleton_Frame_3
     originalName: 
-    pivot: {x: 0.26923072, y: -2.6875}
+    pivot: {x: 0.4574824, y: 0.00000023841858}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -201,9 +201,9 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 38, y: 60}
-  - name: Skeleton_Frame_38
+  - name: Skeleton_Frame_4
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.46, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -221,9 +221,9 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 72, y: 60}
-  - name: Skeleton_Frame_1
+  - name: Skeleton_Frame_5
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
+    pivot: {x: 0.46, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -241,10 +241,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 106, y: 60}
-  - name: Skeleton_Frame_2
+  - name: Skeleton_Frame_6
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -261,10 +261,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 60}
-  - name: Skeleton_Frame_3
+  - name: Skeleton_Frame_7
     originalName: 
-    pivot: {x: 0.24000001, y: -2.9333332}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -281,10 +281,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 208, y: 84}
-  - name: Skeleton_Frame_4
+  - name: Skeleton_Frame_8
     originalName: 
-    pivot: {x: 0.24000001, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -301,10 +301,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 107}
-  - name: Skeleton_Frame_5
+  - name: Skeleton_Frame_9
     originalName: 
-    pivot: {x: 0.26923072, y: -3.0714285}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -321,10 +321,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 63, y: 107}
-  - name: Skeleton_Frame_6
+  - name: Skeleton_Frame_10
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -341,10 +341,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 174, y: 60}
-  - name: Skeleton_Frame_7
+  - name: Skeleton_Frame_11
     originalName: 
-    pivot: {x: 0.26923072, y: -2.9333332}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -361,10 +361,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 208, y: 60}
-  - name: Skeleton_Frame_8
+  - name: Skeleton_Frame_12
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -381,10 +381,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 84}
-  - name: Skeleton_Frame_9
+  - name: Skeleton_Frame_13
     originalName: 
-    pivot: {x: 0.26923072, y: -3.0714285}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -401,10 +401,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 97, y: 107}
-  - name: Skeleton_Frame_10
+  - name: Skeleton_Frame_14
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -421,10 +421,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 38, y: 84}
-  - name: Skeleton_Frame_11
+  - name: Skeleton_Frame_15
     originalName: 
-    pivot: {x: 0.38888884, y: -2.047619}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -441,10 +441,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 107}
-  - name: Skeleton_Frame_12
+  - name: Skeleton_Frame_16
     originalName: 
-    pivot: {x: 0.6190476, y: -2.6875}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -461,10 +461,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 131, y: 107}
-  - name: Skeleton_Frame_13
+  - name: Skeleton_Frame_17
     originalName: 
-    pivot: {x: 0.2666667, y: -1.68}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -481,10 +481,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Skeleton_Frame_14
+  - name: Skeleton_Frame_18
     originalName: 
-    pivot: {x: 0.2666667, y: -1.8260869}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -501,10 +501,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 90, y: 4}
-  - name: Skeleton_Frame_15
+  - name: Skeleton_Frame_19
     originalName: 
-    pivot: {x: 0.28571433, y: -2.8}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -521,10 +521,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 37}
-  - name: Skeleton_Frame_16
+  - name: Skeleton_Frame_20
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -541,10 +541,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 72, y: 84}
-  - name: Skeleton_Frame_17
+  - name: Skeleton_Frame_21
     originalName: 
-    pivot: {x: 0.5555555, y: -2.8}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -561,10 +561,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 153}
-  - name: Skeleton_Frame_18
+  - name: Skeleton_Frame_22
     originalName: 
-    pivot: {x: 0.50000006, y: -2.8}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -581,10 +581,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 153}
-  - name: Skeleton_Frame_19
+  - name: Skeleton_Frame_23
     originalName: 
-    pivot: {x: 0.27500004, y: -2.222222}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -601,10 +601,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 42, y: 4}
-  - name: Skeleton_Frame_20
+  - name: Skeleton_Frame_24
     originalName: 
-    pivot: {x: 0.21621625, y: -2.222222}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -621,10 +621,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 128, y: 4}
-  - name: Skeleton_Frame_21
+  - name: Skeleton_Frame_25
     originalName: 
-    pivot: {x: 0.2666667, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -641,10 +641,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 173, y: 4}
-  - name: Skeleton_Frame_22
+  - name: Skeleton_Frame_26
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -661,10 +661,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 106, y: 84}
-  - name: Skeleton_Frame_23
+  - name: Skeleton_Frame_27
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -681,10 +681,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 84}
-  - name: Skeleton_Frame_24
+  - name: Skeleton_Frame_28
     originalName: 
-    pivot: {x: 0.13636364, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -701,10 +701,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 160, y: 107}
-  - name: Skeleton_Frame_25
+  - name: Skeleton_Frame_29
     originalName: 
-    pivot: {x: 0.13636364, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -721,10 +721,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 190, y: 107}
-  - name: Skeleton_Frame_26
+  - name: Skeleton_Frame_30
     originalName: 
-    pivot: {x: 0.13636364, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -741,10 +741,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 220, y: 107}
-  - name: Skeleton_Frame_27
+  - name: Skeleton_Frame_31
     originalName: 
-    pivot: {x: 0.35714284, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -761,10 +761,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 40, y: 37}
-  - name: Skeleton_Frame_28
+  - name: Skeleton_Frame_32
     originalName: 
-    pivot: {x: 0.35714284, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -781,10 +781,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 37}
-  - name: Skeleton_Frame_29
+  - name: Skeleton_Frame_33
     originalName: 
-    pivot: {x: 0.35714284, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -801,10 +801,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 112, y: 37}
-  - name: Skeleton_Frame_30
+  - name: Skeleton_Frame_34
     originalName: 
-    pivot: {x: 0.35714284, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -821,10 +821,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 148, y: 37}
-  - name: Skeleton_Frame_31
+  - name: Skeleton_Frame_35
     originalName: 
-    pivot: {x: 0.26923072, y: -2.8666666}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -841,10 +841,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 174, y: 84}
-  - name: Skeleton_Frame_32
+  - name: Skeleton_Frame_36
     originalName: 
-    pivot: {x: 0.27272728, y: -3.3076923}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -861,10 +861,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 211, y: 4}
-  - name: Skeleton_Frame_33
+  - name: Skeleton_Frame_37
     originalName: 
-    pivot: {x: 0.2647059, y: -4.7777777}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
@@ -881,10 +881,10 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 136}
-  - name: Skeleton_Frame_34
+  - name: Skeleton_Frame_38
     originalName: 
-    pivot: {x: 0.375, y: -4.7777777}
-    alignment: 9
+    pivot: {x: 0.5, y: 0}
+    alignment: 7
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
