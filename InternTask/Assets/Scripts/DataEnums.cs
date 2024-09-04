@@ -6,3 +6,9 @@ public enum Grade
     Àü¼³,
     ¿µ¿õ,
 }
+
+public enum Scenes
+{
+    Intro,
+    Main
+}
