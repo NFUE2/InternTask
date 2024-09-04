@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: faf218c20aa1e684a95a1bc98bd675d8
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 34089ec3ad1aac742b10398c76f52681
+    m_Address: Assets/Prefab/Monster
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 565a8d9d9b7b8744196ad176ebb42418, type: 2}
   m_SchemaSet:
