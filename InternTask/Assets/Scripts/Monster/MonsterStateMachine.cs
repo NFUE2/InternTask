@@ -14,6 +14,6 @@ public class MonsterStateMachine : StateMachine<ICharacterState, MonsterControl>
         hurtState = new MonsterHurtState(this);
         dieState = new MonsterDieState(this);
 
-        ChangeState(moveState);
+        control.condition.OnRespawn += () => ChangeState(moveState);
     }
 }

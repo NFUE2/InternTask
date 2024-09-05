@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 public class StateMachine<T1,T2> where T1 : IState where T2 : CharacterControl
 {
     public T1 curstate { get; private set; }
@@ -16,7 +18,7 @@ public class StateMachine<T1,T2> where T1 : IState where T2 : CharacterControl
         curstate?.Enter();
     }
 
-    public virtual void StartAnimation(int hash)
+    public void StartAnimation(int hash)
     {
         control.animator.SetBool(hash, true);
     }

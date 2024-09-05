@@ -64,5 +64,9 @@ public class MonsterCondition : MonoBehaviour,IDamagable
         hpCanvas.SetActive(!isDie);
     }
 
-    public void Disable() => gameObject.SetActive(false);
+    public void Disable()
+    {
+        control.gameObject.SetActive(false);
+        MapManager.Instance.SpawnMonster();
+    }
 }

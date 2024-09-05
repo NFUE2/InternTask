@@ -28,11 +28,13 @@ public class MonsterMoveState : MonsterBaseState
     public override void Update()
     {
         base.Update();
+
         if(transform.position != destination.position)
         {
             transform.position = 
                 Vector2.MoveTowards(transform.position,destination.position,speed * Time.deltaTime);
         }
-        else stateMachine.ChangeState(stateMachine.idleState);
+        else
+            stateMachine.ChangeState(stateMachine.idleState);
     }
 }
