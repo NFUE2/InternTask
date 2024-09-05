@@ -22,7 +22,8 @@ public class UIManager : Singleton<UIManager>
 
         if (ui == null)
         {
-            Addressables.InstantiateAsync(uiName).Completed += (handle) => {
+            Addressables.InstantiateAsync(uiName).Completed += (handle) =>
+            {
                 var g = handle.Result;
 
                 ui = g.GetComponent<UIBase>();
@@ -34,5 +35,6 @@ public class UIManager : Singleton<UIManager>
                 ui.Open(param);
             };
         }
+        else ui.Open(param);
     }
 }

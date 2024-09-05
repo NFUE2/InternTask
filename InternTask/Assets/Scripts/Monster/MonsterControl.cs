@@ -12,6 +12,11 @@ public class MonsterControl : CharacterControl
 
     [field: SerializeField] public MonsterAnimationData animationData { get; private set; }
 
+    private void OnMouseDown()
+    {
+        UIManager.Instance.Show<MonsterInfoUI>(data);
+    }
+
     public void Awake()
     {
         gameObject.name = gameObject.name.Replace("(Clone)", "");

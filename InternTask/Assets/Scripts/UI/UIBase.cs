@@ -19,6 +19,6 @@ public class UIBase : MonoBehaviour
         
     }
 
-    public virtual void Open(object[] param) { }
+    public virtual void Open(object[] param) => gameObject.SetActive(true);
     public virtual void Close(object[] param) => gameObject.SetActive(false);
 }

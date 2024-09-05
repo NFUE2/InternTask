@@ -1,6 +1,4 @@
 using System;
-using Unity.Properties;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -34,7 +32,8 @@ public class MonsterCondition : MonoBehaviour,IDamagable
 
     private void OnMouseDown()
     {
-        
+        Debug.Log(1);
+        //UIManager.Instance.Show<MonsterInfoUI>(control.data);
     }
 
     public void TakeDamage(float damage)
